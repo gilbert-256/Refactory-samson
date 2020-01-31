@@ -1,0 +1,14 @@
+.container p{
+    color: brown;
+}
+.container-fluid{
+    color: blue;
+}
+
+.carousel slide{
+     height: 100px;
+    }
+
+    .container{
+        margin-top: 20px;
+    }
